@@ -11,3 +11,6 @@ Nguyễn Sơn Tùng
 Pablo Punk
 Phúc Phạm
 riko
+
+Logo credit
+Vecteezy.com

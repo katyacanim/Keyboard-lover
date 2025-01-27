@@ -78,6 +78,7 @@ h1 {
     background-color: #fceeee;
     color: #fd7889;
 }
+
 .body-section-1 button:active {
     color: #148b9c;
     background-color: #78d1c4;
@@ -166,9 +167,12 @@ h1 {
 .body-section-4 content {
     margin: auto;
 }
-.body-section-4 h3, .body-section-4 p{
+
+.body-section-4 h3,
+.body-section-4 p {
     margin: 5px;
 }
+
 .body-section-4 button {
     border: #148b9c 1px solid;
     border-radius: 5px;
@@ -186,6 +190,7 @@ h1 {
     background-color: #fceeee;
     color: #fd7889;
 }
+
 .body-section-4 button:active {
     color: #148b9c;
     background-color: #78d1c4;
@@ -193,7 +198,8 @@ h1 {
     transform: translateY(2px);
     border: none;
 }
-footer{
+
+footer {
     background-color: #fd7889;
     font-size: 18px;
     color: #fceeee;
